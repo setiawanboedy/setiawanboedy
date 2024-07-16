@@ -5,6 +5,6 @@ Im recently physics bachelor's degree. A technology enthusiast and grows in it. 
 
 🌱 I'm currently work in something cool.
 
-![setiawanboedy's github stats](https://github-readme-stats.vercel.app/api?username=setiawanboedy&show_icons=true&theme=tokyolight)
+![setiawanboedy's github stats](https://github-readme-stats.vercel.app/api?username=setiawanboedy&show_icons=true)
 
-![setiawanboedy's top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=setiawanboedy&layout=compact&theme=tokyolight&exclude_repo=FP_SISOP20_D04&langs_count=8)
+![setiawanboedy's top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=setiawanboedy&layout=compact&exclude_repo=FP_SISOP20_D04&langs_count=8)
