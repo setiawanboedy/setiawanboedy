@@ -6,13 +6,13 @@
 
 ## About Me
 
-🎓 Physics graduate turned mobile & software developer
-📱 Focused on Android and Flutter development
-🖥️ Also builds desktop apps and REST backends — TypeScript/Electron, Go, Python
-🏫 Bangkit Academy alumnus (Google, Tokopedia, Gojek & Traveloka program)
-🌱 Currently exploring **Clean Architecture**, **Jetpack Compose**, and scalable mobile app design
-💡 I enjoy turning analytical thinking into practical engineering solutions
-⚡ Fun fact: from physics equations to Kotlin coroutines, problem-solving stays the same
+- 🎓 Physics graduate turned mobile & software developer 
+- 📱 Focused on Android and Flutter development
+- 🖥️ Also builds desktop apps and REST backends — TypeScript/Electron, Go, Python
+- 🏫 Bangkit Academy alumnus (Google, Tokopedia, Gojek & Traveloka program)
+- 🌱 Currently exploring **Clean Architecture**, **Jetpack Compose**, and scalable mobile app design
+- 💡 I enjoy turning analytical thinking into practical engineering solutions
+- ⚡ Fun fact: from physics equations to Kotlin coroutines, problem-solving stays the same
 
 ## 🚀 What I Build
 
@@ -62,9 +62,3 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=setiawanboedy&theme=tokyonight" alt="GitHub Streak"/>
 </p>
-
-## 📫 Connect with Me
-
-- GitHub: [setiawanboedy](https://github.com/setiawanboedy)
-- LinkedIn: https://www.linkedin.com/
-- Email: budisetiawan.dev@gmail.com
