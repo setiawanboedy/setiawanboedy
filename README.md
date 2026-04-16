@@ -8,6 +8,8 @@
 
 🎓 Physics graduate turned mobile & software developer
 📱 Focused on Android and Flutter development
+🖥️ Also builds desktop apps and REST backends — TypeScript/Electron, Go, Python
+🏫 Bangkit Academy alumnus (Google, Tokopedia, Gojek & Traveloka program)
 🌱 Currently exploring **Clean Architecture**, **Jetpack Compose**, and scalable mobile app design
 💡 I enjoy turning analytical thinking into practical engineering solutions
 ⚡ Fun fact: from physics equations to Kotlin coroutines, problem-solving stays the same
@@ -16,8 +18,9 @@
 
 - Android apps with Kotlin and Jetpack Compose
 - Flutter apps with clean, maintainable architecture
+- Desktop apps with Electron + TypeScript (screen recording, audio DSP)
+- REST backends with Go and Python
 - UI and backend integration with Firebase and modern APIs
-- Reusable components and developer-friendly mobile experiences
 
 ## 🛠️ Tech Stack
 
@@ -33,6 +36,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
 **Tools & Platforms**
@@ -43,11 +47,10 @@
 
 ## 📌 Featured Projects
 
-> Add 2–4 of your strongest projects here. Keep each item short and focused on impact.
-
-- **Project Name 1** — short description of the problem solved, your role, and tech used.
-- **Project Name 2** — short description of the problem solved, your role, and tech used.
-- **Project Name 3** — short description of the problem solved, your role, and tech used.
+- **[screen-recording](https://github.com/setiawanboedy/screen-recording)** — Electron + Bun + TypeScript desktop screen recorder with two-tier noise reduction (AudioWorklet spectral gate + OS-native suppression) and ffmpeg-backed WebM/MP4 output.
+- **[Movie-Expert](https://github.com/setiawanboedy/Movie-Expert)** — Android app (Kotlin) built to Dicoding's Android Developer Expert standard: MVVM + Clean Architecture, dynamic feature modules, Dagger Hilt, SQLCipher encryption, certificate pinning, and CircleCI CI.
+- **[heart-uno](https://github.com/setiawanboedy/heart-uno)** — Flutter thesis project: mobile app paired with a Python ML backend ([heart-uno-backend](https://github.com/setiawanboedy/heart-uno-backend)) for heart health diagnosis. Full-stack: Dart + Python.
+- **[Github-User-App](https://github.com/setiawanboedy/Github-User-App)** — Android app (Kotlin) consuming the GitHub API with MVVM, Room, Retrofit, and Coroutines. Built during Bangkit Academy (Google, Tokopedia, Gojek, Traveloka).
 
 ## 📊 GitHub Stats
 
@@ -68,4 +71,4 @@
 
 ## ✨ Notes
 
-This profile README is a work in progress. The strongest way to improve the score is to replace placeholders with real featured projects, measurable impact, and complete contact links.
+> 💬 LinkedIn slug and contact email are still needed — update lines 5, 66, and 67 with your personal details.
