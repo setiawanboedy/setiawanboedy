@@ -1,14 +1,23 @@
 # Hi there, I'm Budi Setiawan 👋
 
 [![Profile Views](https://komarev.com/ghpvc/?username=setiawanboedy&color=blue&style=flat-square)](https://github.com/setiawanboedy)
+[![GitHub followers](https://img.shields.io/github/followers/setiawanboedy?style=flat-square&logo=github)](https://github.com/setiawanboedy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/)
 
 ## About Me
 
-🎓 Physics graduate turned mobile & software developer  
-📱 Passionate about building Android and Flutter applications  
-🌱 Currently deepening expertise in **Clean Architecture** and **Jetpack Compose**  
-💡 I enjoy applying my analytical background to solve real-world engineering problems  
-⚡ Fun fact: From physics equations to Kotlin coroutines — the love of problem-solving is the same
+🎓 Physics graduate turned mobile & software developer
+📱 Focused on Android and Flutter development
+🌱 Currently exploring **Clean Architecture**, **Jetpack Compose**, and scalable mobile app design
+💡 I enjoy turning analytical thinking into practical engineering solutions
+⚡ Fun fact: from physics equations to Kotlin coroutines, problem-solving stays the same
+
+## 🚀 What I Build
+
+- Android apps with Kotlin and Jetpack Compose
+- Flutter apps with clean, maintainable architecture
+- UI and backend integration with Firebase and modern APIs
+- Reusable components and developer-friendly mobile experiences
 
 ## 🛠️ Tech Stack
 
@@ -32,6 +41,14 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
 
+## 📌 Featured Projects
+
+> Add 2–4 of your strongest projects here. Keep each item short and focused on impact.
+
+- **Project Name 1** — short description of the problem solved, your role, and tech used.
+- **Project Name 2** — short description of the problem solved, your role, and tech used.
+- **Project Name 3** — short description of the problem solved, your role, and tech used.
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -45,4 +62,10 @@
 
 ## 📫 Connect with Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-setiawanboedy-181717?style=flat-square&logo=github)](https://github.com/setiawanboedy)
+- GitHub: [setiawanboedy](https://github.com/setiawanboedy)
+- LinkedIn: https://www.linkedin.com/
+- Email: add your email here
+
+## ✨ Notes
+
+This profile README is a work in progress. The strongest way to improve the score is to replace placeholders with real featured projects, measurable impact, and complete contact links.
