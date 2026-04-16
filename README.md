@@ -67,8 +67,4 @@
 
 - GitHub: [setiawanboedy](https://github.com/setiawanboedy)
 - LinkedIn: https://www.linkedin.com/
-- Email: add your email here
-
-## ✨ Notes
-
-> 💬 LinkedIn slug and contact email are still needed — update lines 5, 66, and 67 with your personal details.
+- Email: budisetiawan.dev@gmail.com
