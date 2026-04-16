@@ -45,13 +45,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
 
-## 📌 Featured Projects
-
-- **[screen-recording](https://github.com/setiawanboedy/screen-recording)** — Electron + Bun + TypeScript desktop screen recorder with two-tier noise reduction (AudioWorklet spectral gate + OS-native suppression) and ffmpeg-backed WebM/MP4 output.
-- **[Movie-Expert](https://github.com/setiawanboedy/Movie-Expert)** — Android app (Kotlin) built to Dicoding's Android Developer Expert standard: MVVM + Clean Architecture, dynamic feature modules, Dagger Hilt, SQLCipher encryption, certificate pinning, and CircleCI CI.
-- **[heart-uno](https://github.com/setiawanboedy/heart-uno)** — Flutter thesis project: mobile app paired with a Python ML backend ([heart-uno-backend](https://github.com/setiawanboedy/heart-uno-backend)) for heart health diagnosis. Full-stack: Dart + Python.
-- **[Github-User-App](https://github.com/setiawanboedy/Github-User-App)** — Android app (Kotlin) consuming the GitHub API with MVVM, Room, Retrofit, and Coroutines. Built during Bangkit Academy (Google, Tokopedia, Gojek, Traveloka).
-
 ## 📊 GitHub Stats
 
 <p align="center">
